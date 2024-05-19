@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 # 💫 About Me:
-<p>🔭 Software Engineer (Backend) at Onramp.money.<br>
-💪 Specializing in robust backend solutions, focusing on onramp/offramp solutions for cryptocurrency.<br>
-🌐 Experienced in Web3 development with hands-on experience in blockchain projects. Proficient with libraries like Ethers and Web3.js.<br>
-🤝 Open to collaboration opportunities and eager to discuss innovative project ideas.<br>
-💬 Passionate about Web3, Blockchain, and AI.</p>
+<p> Software Engineer (Backend) at Onramp.money.<br>
+Specializing in robust backend solutions, focusing on onramp/offramp solutions for cryptocurrency.<br>
+Experienced in Web3 development with hands-on experience in blockchain projects. Proficient with libraries like Ethers and Web3.js.<br>
+Open to collaboration opportunities and eager to discuss innovative project ideas.<br>
+Passionate about Web3, Blockchain, and AI.</p>
 
 
 ## 🌐 Socials:
