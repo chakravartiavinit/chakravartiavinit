@@ -1,8 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 # 💫 About Me:
-🔭 I am a final year undergraduate student at the National Institute of Technology, Agartala.<br>💪 My areas of expertise include HTML, CSS, JavaScript, ReactJS, NodeJS, and Express.<br>🤝 I am open to collaboration opportunities and I would be happy to discuss any project ideas you may have.<br>🌱 I am currently learning new skills and technologies to expand my knowledge in backend development.<br>💬 Ask me about Music, Chess, Competitive Programming.
-
+🔭 Software Engineer (Backend) at Onramp.money.
+💪 Specializing in robust backend solutions, focusing on onramp/offramp solutions for cryptocurrency.
+🌐 Experienced in Web3 development with hands-on experience in blockchain projects. Proficient with libraries like Ethers and Web3.js.
+🤝 Open to collaboration opportunities and eager to discuss innovative project ideas.
+💬 Passionate about Web3, Blockchain, and AI.
 
 
 ## 🌐 Socials:
