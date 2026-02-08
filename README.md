@@ -1,24 +1,67 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
 
-# 💫 About Me:
-<p> Software Engineer (Backend) at Onramp.money.<br>
-Specializing in robust backend solutions, focusing on onramp/offramp solutions for cryptocurrency.<br>
-Experienced in Web3 development with hands-on experience in blockchain projects. Proficient with libraries like Ethers and Web3.js.<br>
-Open to collaboration opportunities and eager to discuss innovative project ideas.<br>
-Passionate about Web3, Blockchain, and AI.</p>
+  # 💫 Chakravarti Avinit
+  ### Founding Engineer @ [DollarPe](https://dollarpe.com)
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakravartiavinit/) 
+  [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xvntr)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://avinit.xyz)
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chakravarti-avinit-115b91119/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chakravartiavinit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chakravartiavinit&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chakravartiavinit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chakravartiavinit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Impact
+
+#### **Founding @ [DollarPe](https://dollarpe.com)**
+- **Architected core fintech infrastructure** from the ground up, designing 3 production-grade Django microservices.
+- **Processed $20M+ in transaction volume**, managing high-availability services and complex financial workflows.
+- **Technical Ownership**: Built the public website and internal admin dashboard, leading all critical decisions on service boundaries and scalability.
+
+#### **SDE-1 @ [Onramp.money](https://onramp.money)**
+- **Global Scale**: Expanded core systems to support **45+ countries** across LATAM, US, Europe, and SE Asia.
+- **Exchange Integrations**: Led independent integrations with **5+ major exchanges** (Mexc, LBank, Bitget, ByBit, etc.) and supported **200+ unique tokens**.
+- **Web3 Engineering**: Shipped Solana trading bots for alpha insights and automated critical B2B whitelabel API flows.
+- **Reliability**: Engineered 100+ unit/integration tests and owned the entire technical documentation (50+ pages), improving system dependability by 30%.
+
+#### **Featured Projects**
+- **[Coin Price Alert Bot](https://t.me/onrampmoneybot)**: A crypto notification & trading engine **merged into the Onramp.money ecosystem**, scaling to **100,000+ global users**. Supports real-time tracking and **instant buy/sell crypto** directly via Onramp.money.
+
+---
+
+### 💻 Tech Stack
+
+**Backend & Architecture**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+</p>
+
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+</p>
+
+**Web3 & Blockchain**
+<p align="left">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chakravartiavinit&theme=tokyonight&hide_border=false" height="150" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=chakravartiavinit&style=flat-square&color=blue" alt="Profile Views" />
+</div>
