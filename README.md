@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
-  # 💫 Chakravarti Avinit
-  ### Founding Engineer @ [DollarPe](https://dollarpe.com)
+  <h1 align="center">⚡ Chakravarti Avinit</h1>
+  <h3 align="center">Founding Engineer @ <a href="https://dollarpe.com">DollarPe</a></h3>
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakravartiavinit/) 
-  [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xvntr)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://avinit.xyz)
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/chakravartiavinit/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://x.com/0xvntr"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+    <a href="https://avinit.xyz"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
@@ -26,7 +27,7 @@
 - **Reliability**: Engineered 100+ unit/integration tests and owned the entire technical documentation (50+ pages), improving system dependability by 30%.
 
 #### **Featured Projects**
-- **[Coin Price Alert Bot](https://t.me/onrampmoneybot)**: A crypto notification & trading engine **merged into the Onramp.money ecosystem**, scaling to **100,000+ global users**. Supports real-time tracking and **instant buy/sell crypto** directly via Onramp.money.
+- **[Coin Price Alert Bot](https://t.me/onrampmoneybot)**: A crypto notification & trading engine **merged into the Onramp.money ecosystem**, scaling to **100,000+ global users**. Supports real time tracking and **instant buy/sell crypto** directly via Onramp.money.
 
 ---
 
