@@ -15,7 +15,7 @@
 
 ### 🚀 Impact
 
-#### **Founding @ [DollarPe](https://dollarpe.com)**
+#### **Founding Engineer @ [DollarPe](https://dollarpe.com)**
 - **Architected core fintech infrastructure** from the ground up, designing 3 production-grade Django microservices.
 - **Processed $20M+ in transaction volume**, managing high-availability services and complex financial workflows.
 - **Technical Ownership**: Built the public website and internal admin dashboard, leading all critical decisions on service boundaries and scalability.
