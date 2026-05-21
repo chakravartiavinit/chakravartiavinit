@@ -62,7 +62,16 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chakravartiavinit&theme=tokyonight&hide_border=false" height="150" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=chakravartiavinit&style=flat-square&color=blue" alt="Profile Views" />
+  <img
+    src="https://streak-stats.demolab.com?user=chakravartiavinit&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="GitHub Streak"
+  />
+
+  <br />
+
+  <img
+    src="https://komarev.com/ghpvc/?username=chakravartiavinit&style=flat-square&color=58A6FF"
+    alt="Profile Views"
+  />
 </div>
