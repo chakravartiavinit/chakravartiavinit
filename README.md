@@ -63,14 +63,6 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=chakravartiavinit&theme=tokyonight&hide_border=true"
-    height="150"
-    alt="GitHub Streak"
-  />
-
-  <br />
-
-  <img
     src="https://komarev.com/ghpvc/?username=chakravartiavinit&style=flat-square&color=58A6FF"
     alt="Profile Views"
   />
