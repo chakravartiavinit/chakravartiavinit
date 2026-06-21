@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
   <h1 align="center">⚡ Chakravarti Avinit</h1>
-  <h3 align="center">Founding Engineer @ <a href="https://dollarpe.com">DollarPe</a></h3>
+  <h3 align="center">Founding Engineer @ <a href="https://proremit">Proremit</a></h3>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/chakravartiavinit/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -15,10 +15,8 @@
 
 ### 🚀 Impact
 
-#### **Founding Engineer @ [DollarPe](https://dollarpe.com)**
-- **Architected core fintech infrastructure** from the ground up, designing 3 production-grade Django microservices.
-- **Processed $20M+ in transaction volume**, managing high-availability services and complex financial workflows.
-- **Technical Ownership**: Built the public website and internal admin dashboard, leading all critical decisions on service boundaries and scalability.
+#### **Founding Engineer @ [Proremit](https://proremit.com)**
+- **Building faster, fairer cross border payments**
 
 #### **SDE-1 @ [Onramp.money](https://onramp.money)**
 - **Global Scale**: Expanded core systems to support **45+ countries** across LATAM, US, Europe, and SE Asia.
