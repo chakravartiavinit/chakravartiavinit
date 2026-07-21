@@ -25,7 +25,7 @@
 - **Reliability**: Engineered 100+ unit/integration tests and owned the entire technical documentation (50+ pages), improving system dependability by 30%.
 
 #### **Featured Projects**
-- **[Coin Price Alert Bot](https://t.me/onrampmoneybot)**: A crypto notification & trading engine **merged into the Onramp.money ecosystem**, scaling to **100,000+ global users**. Supports real time tracking and **instant buy/sell crypto** directly via Onramp.money.
+- **[Orqly](https://orqly.xyz/)**: An API workflow orchestration and testing platform that simplifies **end-to-end integration testing** with visual flows, branching logic, reusable variables, retries, and real-time debugging.
 
 ---
 
