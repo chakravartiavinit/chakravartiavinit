@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 Impact
+### Impact
 
 #### **Founding Engineer @ [Proremit](https://proremit.com)**
 - **Building faster, fairer cross border payments**
